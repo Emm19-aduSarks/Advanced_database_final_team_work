@@ -3,3 +3,4 @@ Final Team Assignment for Team Firebase (Miriam Adyaye, Sean Ofori-Addo, Nkunim 
 
 AdvancedDBMSFINAL 2.zip contains the frontend and back end code for the system.
 akfarms contains the sql databse
+akfarms_collection.json contains the no sql code
